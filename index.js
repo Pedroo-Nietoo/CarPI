@@ -14,7 +14,7 @@ placa.addEventListener("keypressed", (e) => {
 
 function buscarDados() {
     if (obterPlaca()) {
-        // var url = `https://my-json-server.typicode.com/pedroo-nietoo/carpi/placas/?placa=${placa.value.toUpperCase()}`
+        // var url = `https://my-json-server.typicode.com/pedroo-nietoo/carpi/carros/?placa=${placa.value.toUpperCase()}`
         // fetch(url)
         //     .then(res => res.json())
         //     .then(data => {
