@@ -41,6 +41,24 @@
             "marca": "Volkswagen",
             "modelo": "Amarok",
             "ano": "2023"
+        },
+        {
+            "placa": "FGH6B89",
+            "marca": "Chevrolet",
+            "modelo": "Onix",
+            "ano": "2023"
+        },
+        {
+            "placa": "IJK7C12",
+            "marca": "Nissan",
+            "modelo": "Kicks",
+            "ano": "2023"
+        },
+        {
+            "placa": "LMN8D45",
+            "marca": "Mercedes",
+            "modelo": "GLA",
+            "ano": "2023"
         }
     ]
 }
