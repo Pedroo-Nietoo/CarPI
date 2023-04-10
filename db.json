@@ -1,0 +1,46 @@
+{
+    "placas": [
+        {
+            "marca": "Marca A",
+            "modelo": "Modelo A",
+            "ano": "2010",
+            "placa": "ABC-1234"
+        },
+        {
+            "marca": "Marca B",
+            "modelo": "Modelo B",
+            "ano": "2012",
+            "placa": "DEF-5678"
+        },
+        {
+            "marca": "Marca C",
+            "modelo": "Modelo C",
+            "ano": "2015",
+            "placa": "GHI-9012"
+        },
+        {
+            "marca": "Marca D",
+            "modelo": "Modelo D",
+            "ano": "2018",
+            "placa": "JKL-3456"
+        },
+        {
+            "marca": "Marca E",
+            "modelo": "Modelo E",
+            "ano": "2020",
+            "placa": "MNO-7890"
+        },
+        {
+            "marca": "Marca F",
+            "modelo": "Modelo F",
+            "ano": "2011",
+            "placa": "PQR-2345"
+        },
+        {
+            "marca": "Marca G",
+            "modelo": "Modelo G",
+            "ano": "2013",
+            "placa": "STU-6789"
+        }
+    ]
+}
