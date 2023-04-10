@@ -16,6 +16,6 @@ function buscarDados() {
             marca = data[0].marca
             modelo = data[0].modelo
             ano = data[0].ano
-            alert(`Placa: ${placa.value}\nMarca: ${marca}\n Modelo: ${modelo}\n Ano: ${ano}`)
+            alert(`Placa: ${placa.value}\nMarca: ${marca}\nModelo: ${modelo}\nAno: ${ano}`)
         })
 }
